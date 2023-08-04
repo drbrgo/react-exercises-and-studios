@@ -7,7 +7,7 @@ const RecipeAuthor = () => {
     let authorName = "Sarah, elder daughter of the Woks of Life family";
     return (
             <div className = {styles.recipeAuthorBlock}>
-               <img src={authorPhoto} alt = "Sarah holding knife" className={styles.imageUpdates} />
+               <img src={authorPhoto} alt = "Sarah holding knife" className={styles.imageUpdates} width = "200" />
                <div>
                   <h3>{authorName}</h3>
                   <a href={authorLink}>The Woks of Life</a> 
