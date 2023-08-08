@@ -1,5 +1,14 @@
+import "./styling.css";
+
 function ClickedButton() {
-  return;
+  function handleClick2() {
+    alert("You have removed this pin!");
+  }
+  return(
+    <button id="clickedButton" onClick={handleClick2}>
+      Saved
+      </button>
+  );
 }
 
 export default ClickedButton;
