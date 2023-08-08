@@ -1,6 +1,6 @@
 import styles from './Ingredients.module.css';
 
-const RecipeIngredients = () => {
+export default function RecipeIngredients () {
     let ingredients = ["4 small to medium tomatoes", "1 scallion", "4 eggs", "3/4 tsp salt", "1/4 tsp white pepper", "1/2 tsp sesame oil", "1 tsp shaoxing wine", "3 tbsp cooking oil (divided)", "2 tsp sugar", "1/4-1/2 cup water"];
     return (
     <div>
@@ -16,4 +16,4 @@ const RecipeIngredients = () => {
     );
 };
 
-export default RecipeIngredients;
+//export default RecipeIngredients;
