@@ -1,17 +1,21 @@
 [
    {
-     "name": "Stovetop Mac and Cheese",
-     "author": "Stephanie Melchione",
-     "description": "This Creamy Stovetop Mac and Cheese is the BEST 30-minute meal for a busy week. Your family will love it every time!",
-     "website": "https://thecozycook.com/stovetop-mac-and-cheese/",
-     "recipeImage": "https://thecozycook.com/wp-content/uploads/2021/10/Stovetop-Mac-and-Cheese-2.jpg",
-     "authorImage": "https://thecozycook.com/wp-content/uploads/2021/11/The-Cozy-Cook.jpg",
-     "ingredients": [
-       "uncooked macaroni",
-       "butter",
-       "flour",
-       "heavy cream",
-       "milk"
+     "name": "Chinese Tomato Egg Stir-Fry",
+     "author": "Sarah, elder daughter of the Woks of Life family",
+     "description": "Tangy tomatoes, mixed with rich scrambled eggs, a hint of sugar, and flavorful sesame oil and Shaoxing wine all come together to create a very satisfying (and vegetarian!) dish that tastes lovely on a bed of rice.",
+     "website": "https://thewoksoflife.com/",
+     "recipeImage": "https://thewoksoflife.com/wp-content/uploads/2019/05/tomato-egg-8.jpg",
+     "authorImage": "https://thewoksoflife.com/wp-content/uploads/2020/10/TWOL-Headshots-Sarah2-edited-1.jpg",
+     "ingredients": ["4 small to medium tomatoes", 
+     "1 scallion", 
+     "4 eggs", 
+     "3/4 tsp salt", 
+     "1/4 tsp white pepper", 
+     "1/2 tsp sesame oil", 
+     "1 tsp shaoxing wine", 
+     "3 tbsp cooking oil (divided)", 
+     "2 tsp sugar", 
+     "1/4-1/2 cup water"
      ]
    }
  ]
