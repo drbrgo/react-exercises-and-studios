@@ -9,16 +9,24 @@ export default function BoardAssignment () {
       {label: "Summer Recipes",
        value: "Drupes"}
    ];
+   const accessBoards = boards.map(aBoard => {
+   return (
+   <option value={aBoard.value}>{aBoard.label}</option>
+   );
+   });
 
-<option value={appropriate value}>{appropriate label}</option>
 
    const handleChange = (event) => {
+      setBoardName(event.target.value);
    }
+
+   const [boardName, setBoardName] = useState("no boards yet!");
 
    return (
       <div style={{paddingTop: "50px"}}>
       <label>Save to Board: </label>
       <select value={boardName} onChange={handleChange}>
+         {accessBoards}
       </select>
 
       <p>Saved to {boardName}!</p>
