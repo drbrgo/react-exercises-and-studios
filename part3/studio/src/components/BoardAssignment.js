@@ -1,7 +1,16 @@
 import { useState } from 'react';
 
 export default function BoardAssignment () {
-   const boards = [];
+   const boards = [
+      {label: "Dessert",
+       value: "Cake"},
+      {label: "Fruit Recipes",
+       value: "Baked Goods"},
+      {label: "Summer Recipes",
+       value: "Drupes"}
+   ];
+
+<option value={appropriate value}>{appropriate label}</option>
 
    const handleChange = (event) => {
    }

@@ -8,8 +8,8 @@ function App() {
     <div className="App">
       <RecipeDisplay />
       <div className="recipePhotoBlock">
-        <BoardAssignment />
-        <StatusChange />
+        {/* <BoardAssignment />
+        <StatusChange /> */}
       </div>
     </div>
   );
