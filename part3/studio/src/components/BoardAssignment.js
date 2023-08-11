@@ -2,6 +2,8 @@ import { useState } from 'react';
 
 export default function BoardAssignment () {
    const boards = [
+      {label: "Please select a board",
+       value: "no boards yet!"},
       {label: "Dessert",
        value: "Cake"},
       {label: "Fruit Recipes",
